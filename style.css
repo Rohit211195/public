@@ -1,0 +1,85 @@
+  body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+  }
+  
+  .container{
+    padding-top: 20px;
+  }
+
+  .logo{
+    padding: 10px;
+    text-align: center;
+  }
+
+  .icon{
+    height: 80px;
+    width : 80px;
+    border-radius: 100px;
+  }
+
+  .bio{
+    text-align: center;
+    padding: 10px;
+  }
+
+
+  .ul-social{
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+
+  }
+
+  .list-social a{
+    padding: 0 0 5px 0;
+  }
+
+  
+  .list-social{
+    padding: 0 15px 0 0px;
+    display: inline;
+  }
+
+  .navbar{
+    background-color: rgb(211, 203, 202);
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  
+
+  .list-nav{
+    padding: 0 15px 0 0px;
+    display: inline;
+
+  }
+
+  .list-nav a{
+    padding: 0 0 5px 0;
+    text-decoration: none;
+    color: rgb(73, 70, 70);
+
+  }
+
+  .list-nav a:hover{
+    
+    border-bottom: 3px solid salmon;
+    }
+
+  .ux {
+    padding: 20px;  
+    }
+    
+    
+
+  
+ 
+  
+
+  
+
+  
+  
