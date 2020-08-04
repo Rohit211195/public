@@ -43,13 +43,23 @@
     display: inline;
   }
 
-  .navbar{
-    background-color: rgb(211, 203, 202);
-    border-radius: 5px;
-    padding: 15px;
+  .sub-container{
+    padding-left: 40px;
+    padding-right: 40px;
   }
 
-  
+  .navbar-story{
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 40px;
+    background-color: #778899;
+  }
+
+  .ul-nav{
+    padding: 0px;
+    margin: 0px;
+
+  }
 
   .list-nav{
     padding: 0 15px 0 0px;
@@ -58,7 +68,7 @@
   }
 
   .list-nav a{
-    padding: 0 0 10px 0;
+    padding: 0 0 5px 0;
     text-decoration: none;
     color: rgb(73, 70, 70);
 
@@ -70,20 +80,53 @@
     }
 
   .ux {
-    padding: 20px;  
-    }
+    margin-left: 40px;  
+    margin-right: 40px;  
 
-  .sub-container{
-    padding-left: 40px;
-    padding-right: 40px;
-  }
+    }
 
   .resume {
    text-align: center;
     
   }
+
+  .ux-head{
+    font-size: 28px;
+    padding: 20px;
+  }
+
+  .head-icon{
     
+    margin-right: 5px;
+
+  }
+
+  .ux-body{
+    font-size: 20px;
+    padding: 0px 20px 0px 20px;
+    text-align: justify;
+  }
     
+  .col-sm-1{
+    padding: 20px;
+  }
+
+  .col-sm-11{
+    padding: 20px;
+  }
+
+  .title{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .subtitle{
+    font-size: 14px;
+    font-weight: 100;
+    font-style: italic;
+    color: lightslategrey;
+  }
+
 
   
  
