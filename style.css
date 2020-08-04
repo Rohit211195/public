@@ -128,7 +128,17 @@
   }
 
 
-  
+  @media only screen and (max-width: 600px) {
+    
+    .ux {
+      margin-left: 10px;  
+      margin-right: 10px;  
+  }
+
+  .sub-container{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
  
   
 
