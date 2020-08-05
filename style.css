@@ -5,9 +5,14 @@
 
   }
   
-  .container{
-    padding-top: 20px;
+  ul{
+    text-decoration: none;
   }
+
+  li {
+    list-style-type: none;
+  }
+  
 
   .logo{
     padding: 10px;
@@ -48,36 +53,7 @@
     padding-right: 40px;
   }
 
-  .navbar-story{
-    padding: 10px;
-    font-size: 20px;
-    margin-top: 40px;
-    background-color: #778899;
-  }
-
-  .ul-nav{
-    padding: 0px;
-    margin: 0px;
-
-  }
-
-  .list-nav{
-    padding: 0 15px 0 0px;
-    display: inline;
-
-  }
-
-  .list-nav a{
-    padding: 0 0 5px 0;
-    text-decoration: none;
-    color: rgb(73, 70, 70);
-
-  }
-
-  .list-nav a:hover{
-    
-    border-bottom: 3px solid salmon;
-    }
+  
 
   .ux {
     margin-left: 40px;  
