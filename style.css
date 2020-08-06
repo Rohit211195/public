@@ -46,6 +46,7 @@
   .list-social{
     padding: 0 15px 0 0px;
     display: inline;
+   
   }
 
   .sub-container{
@@ -110,4 +111,16 @@
     padding-right: 10px;
   }
 
-}
+  .ux-head{
+    padding: 0px;
+    margin: 30px 0 10px 0;
+  }
+  
+  .ux-body{
+    padding: 10px;
+    margin: 20px 0 10px 0;
+  }
+
+ }
+
+
