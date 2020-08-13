@@ -34,7 +34,7 @@
   .ul-social{
     list-style: none;
     text-align: center;
-    padding: 0px;
+    padding: 0px 0px 20px 0px ;
 
   }
 
@@ -96,6 +96,10 @@
     font-weight: 100;
     font-style: italic;
     color: lightslategrey;
+  }
+
+  .intro{
+    background-image: url('assets/cover.png');
   }
 
 
