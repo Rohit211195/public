@@ -1,0 +1,106 @@
+  body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+  }
+
+  .intro{
+    border: 1px solid #f0f0f0;
+    height: 400px;
+    width: 300px;
+    top: 30%;
+    left: 40%;
+    position: fixed;
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+  }
+  
+  .logo{
+    padding: 15px 0px 0px 0px;
+  }
+
+  .icon{
+    height: 80px;
+    width : 80px;
+    border-radius: 100px;
+  }
+
+  .name{
+    padding: 15px 0px 0px 0px;
+    
+  }
+
+  .desc{
+    padding: 10px 0px 0px 0px;
+  }
+ 
+  ul{
+    text-decoration: none;
+  }
+
+  li {
+    list-style-type: none;
+  }
+  
+  .ul-social{
+    list-style: none;
+    padding: 15px 0px 0px 0px;
+  }
+  
+  .list-social{
+    padding: 0 15px 0 0px;
+    display: inline;
+   
+  }
+
+  .ul-links{
+    list-style: none;
+    padding: 15px 0px 0px 0px;
+  }
+  
+  .list-links{
+    padding: 0 15px 0 0px;
+    display: inline;
+   
+  }
+  
+
+ 
+  
+
+  
+  
+
+  
+  @media only screen and (max-width: 600px) {
+    
+    .ux {
+      margin-left: 10px;  
+      margin-right: 10px;  
+  }
+
+  .sub-container{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .ux-head{
+    padding: 0px;
+    margin: 30px 0 10px 0;
+  }
+  
+  .ux-body{
+    padding: 10px;
+    margin: 20px 0 10px 0;
+  }
+ 
+  .source-items{
+    display: block;
+    
+  }
+
+  
+
+ }
+
