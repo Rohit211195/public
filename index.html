@@ -9,6 +9,11 @@
   gtag('js', new Date());
 
   gtag('config', 'G-JW8Z8V6VGW');
+
+  document.addEventListener('contextmenu', function(e) {
+  e.preventDefault();
+});
+
 </script>
 
 
@@ -23,7 +28,7 @@
 
 </head>
 
-<body>
+<body oncontextmenu="return false">
 
 
   <div class="app">
@@ -59,9 +64,9 @@
     
         <ul class="ul-links">
           <li class="list-links"><a href="/blogs.html">
-            My Articles</a></li>
-          <li class="list-social"><a href="/ux.html">
-            UX Toolkits</a></li>
+            My UX Theory</a></li>
+         <!-- <li class="list-social"><a href="/about.html">
+            About Me</a></li>-->
         </ul>  
   
       </div> 
